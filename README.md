@@ -15,7 +15,7 @@ I'm an engineer working across deep learning, LLM systems and embedded systems.
 
 ### 🎓 Education
  
-- 🇺🇸 **Graduate Exchange Student, EECS** — UC Berkeley (2025–2026)
+- 🇺🇸 **Graduate Exchange Student, Electrical Engineering and Computer Science (EECS)** — UC Berkeley (2025–2026)
 - 🇳🇴 **M.Sc. Electronic Systems Design and Innovation** — NTNU (2022–2027)
 
 ---
