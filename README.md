@@ -6,10 +6,10 @@ I'm an engineer working across deep learning, LLM systems and embedded systems.
 
 ### 🏢 Experience
  
-- 🔬 **Associate Researcher** — Space Sciences Laboratory, UC Berkeley (NASA SMEX / COSI)
+- 🔬 **Associate Researcher** — UC Berkeley Space Sciences Laboratory (NASA SMEX / COSI)
 - 🏭 **Analogue Design Engineering Intern** — Sony Semiconductor Solutions
-- 🛰️ **Student Guest Researcher** — NTNU SmallSat Lab (HYPSO-2 hyperspectral mission)
-- 🚀 **Founder** — BlinkWeb (web & automation solutions, 2022–2024)
+- 🛰️ **Student Guest Researcher** — NTNU SmallSat Lab
+- 🚀 **Founder** — BlinkWeb (web & automation solutions)
 
 ---
 
