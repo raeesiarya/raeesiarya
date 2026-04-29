@@ -6,7 +6,7 @@ I'm an engineer working across deep learning, LLM systems and embedded systems.
 
 ### 🏢 Experience
  
-- 🔬 **Associate Researcher** — NASA Small Explorers Program (SMEX) / Compton Spectrometer and Imager (COSI)
+- 🔬 **Associate Researcher** — NASA Small Explorers (SMEX) Program / Compton Spectrometer and Imager (COSI)
 - 🏭 **Analogue Design Engineering Intern** — Sony Semiconductor Solutions
 - 🛰️ **Student Guest Researcher** — NTNU SmallSat Lab
 - 🚀 **Founder** — BlinkWeb (web & automation solutions)
